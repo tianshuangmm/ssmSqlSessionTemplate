@@ -1,0 +1,2 @@
+spring与mybatis五种整合方法
+  采用接口org.apache.ibatis.session.SqlSession的实现类org.mybatis.spring.SqlSessionTemplate
